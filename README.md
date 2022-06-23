@@ -21,14 +21,14 @@
 </div>
 
 ## About Me:
-I am a Front-end Developer with a passion for solving challenging problems while creating an awesome user-experience. I thrive in collaborative and creative environments that provide me the opportunity to always be learning new things.
+I am a Front End developer with industry experience building websites, web applications, and mobile applications utilizing agile methodologies in group settings. I specialize in JavaScript, React, and React-Native. I have a passion for problem-solving, diving deep into docs, and emerging with an answer to a challenging coding problem is a day well spent in my books. 
 
-Before switching to software as a full-time pursuit, I worked in the video game industry in the Talent Attraction space - the marketing and branding behind recruiting talent to a company. As a developer, I weave my previous experience in brand, project management, and design into my workflow to build projects that create lasting impressions.
+Please, reach out to me at mikeputnam713@gmail.com.
 
 <p>
-   <a href="https://www.linkedin.com/in/joseph-rupp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+   <a href="https://www.linkedin.com/in/michael-i-putnam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <!--    <a href="https://jruppdesign.com/"><img src="https://img.shields.io/badge/Website-343434?style=for-the-badge&logoColor=white" alt="Website"></a> -->
-   <a href="mailto:joerpp8@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
+   <a href="mailto:mikeputnam713@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
 </p>
 
 ## Languages:
@@ -65,9 +65,6 @@ Before switching to software as a full-time pursuit, I worked in the video game 
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Illustrator-262626?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00"/>
-  <img src="https://img.shields.io/badge/Photoshop-262626?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF?"/>
-  <img src="https://img.shields.io/badge/InDesign-262626?style=for-the-badge&logo=adobeindesign&logoColor=FF3366"/>
   <img src="https://img.shields.io/badge/XD-262626?style=for-the-badge&logo=adobexd&logoColor=#FF61F6"/>
 </p>
 
